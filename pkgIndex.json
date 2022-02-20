@@ -1,0 +1,12 @@
+{
+  "updated": "2022-02-20",
+  "packages": [
+    {
+      "name": "PhotonJSON",
+      "type": "library",
+      "magnet_type": "core_lib",
+      "url": "https://github.com/Ferruslogic/PhotonJSON/releases/latest/download/PhotonJSON.livecodescript",
+      "author": "FerrusLogic"
+    }
+  ]
+}
