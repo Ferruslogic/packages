@@ -6,7 +6,16 @@
       "type": "library",
       "magnet_type": "core_lib",
       "url": "https://github.com/Ferruslogic/PhotonJSON/releases/latest/download/PhotonJSON.livecodescript",
-      "author": "FerrusLogic"
-    }
+      "author": "FerrusLogic",
+      "version":"latest"
+    },
+    {
+        "name": "libconfig",
+        "type": "library",
+        "magnet_type": "core_lib",
+        "url": "https://github.com/Ferruslogic/frlConfig/releases/latest/download/libconfig.livecodescript",
+        "author": "FerrusLogic",
+        "version":"latest"
+      }
   ]
 }
